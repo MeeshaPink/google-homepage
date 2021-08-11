@@ -55,6 +55,7 @@ footer a {
     border: 1px solid #dfe1e5;
     height: 40px;
     margin: auto;
+    text-indent: 40px;
 }
 
 .search:hover {
