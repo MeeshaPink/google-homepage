@@ -1,0 +1,2 @@
+Google Homepage Project
+At the end of this project, I hope to have demonstrated at least minimal CSS skills. I have little to no confidence I can pull this off. I don't remember any commands, so getting close to a passible website will be a win.

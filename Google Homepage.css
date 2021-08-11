@@ -1,0 +1,116 @@
+a {
+    font-family: Arial,sans-serif;
+    font-size: 13px;
+    color:#222;
+    margin: 0px 10px 0px 10px;
+    text-decoration: none;
+
+}
+a:hover {
+    text-decoration: underline;
+  }
+button {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    background-color:#f2f2f2;
+    text-align: center;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color:#5f6368;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 40px;
+}
+img {
+    
+}
+form {
+    height: 39px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+footer {
+    position:fixed;
+    padding: 10px 10px 10px 10px;
+    bottom: 0px;
+    width: 98%;
+    height: 35px;
+    line-height: 35px;
+    background-color: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    margin-left: -5px;
+    
+}
+
+footer a {
+    font-size: 14px;
+
+}
+.search {
+    border-radius: 25px;
+    min-width: 500px;
+    max-width: 600px;
+    border: 1px solid #dfe1e5;
+    height: 40px;
+    margin: auto;
+}
+
+.search:hover {
+    box-shadow: 0px 1px 3px 2px rgb(168, 169, 170);
+}
+
+.btn-group {
+    float: right;
+    margin-top: -15px;
+}
+
+.btn-group-footer {
+    float: right;
+}
+
+.sign-in {
+    background-color: #4583ec;
+    color: white;
+    font-weight: bold;
+}
+
+.main-content {
+    text-align: center;
+}
+
+.logo {
+    margin-top: 7%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.GoogleNav {
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+ }
+
+.materials-icons {
+   box-sizing: content-box;
+   padding-top: 10px;
+}
+
+
+.app-button {
+    vertical-align: middle;
+}
+
+.magnifying-glass {
+    position: absolute;
+    padding: 9px;
+    color: #9AA0A6;
+}
+
+.microphone {
+    position: fixed;
+    margin: 7px 9px 7px 470px;
+    height: 30px
+}
