@@ -56,6 +56,7 @@ footer a {
     height: 40px;
     margin: auto;
     text-indent: 40px;
+    
 }
 
 .search:hover {
@@ -114,4 +115,8 @@ footer a {
     position: fixed;
     margin: 7px 9px 7px 470px;
     height: 30px
+}
+
+:focus-visible {
+    outline: none;
 }
